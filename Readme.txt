@@ -1,3 +1,5 @@
+Testing some stuff with Github Pages and different Templates
+
 Thanks for downloading this template!
 
 Template Name: MyPortfolio
